@@ -1,0 +1,8 @@
+{
+  "name": "Trance Movement Community App",
+  "description": "A high-fidelity community interface for Trance Movement, featuring BuddyPress activity streams, event management, and private messaging with a trance-inspired aesthetic.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
